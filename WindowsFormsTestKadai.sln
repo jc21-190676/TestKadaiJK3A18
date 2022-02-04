@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsTestKadai", "WindowsFormsTestKadai.csproj", "{D9EAA4CD-840F-40B2-8E86-1353D2600F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsTestKadaiTests", "..\WindowsFormsTestKadaiTests\WindowsFormsTestKadaiTests.csproj", "{EC340B07-CA56-4485-AB99-733248CFCFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9EAA4CD-840F-40B2-8E86-1353D2600F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EAA4CD-840F-40B2-8E86-1353D2600F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EAA4CD-840F-40B2-8E86-1353D2600F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EAA4CD-840F-40B2-8E86-1353D2600F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC340B07-CA56-4485-AB99-733248CFCFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC340B07-CA56-4485-AB99-733248CFCFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC340B07-CA56-4485-AB99-733248CFCFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC340B07-CA56-4485-AB99-733248CFCFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {925B3CB3-9272-4317-A9B3-3214391C9C1F}
+	EndGlobalSection
+EndGlobal
